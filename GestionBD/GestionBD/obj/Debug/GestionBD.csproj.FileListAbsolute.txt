@@ -1,0 +1,28 @@
+C:\Users\sdeschenes\Documents\Visual Studio 2013\Projects\GestionBD\GestionBD\bin\Debug\GestionBD.exe.config
+C:\Users\sdeschenes\Documents\Visual Studio 2013\Projects\GestionBD\GestionBD\bin\Debug\GestionBD.exe
+C:\Users\sdeschenes\Documents\Visual Studio 2013\Projects\GestionBD\GestionBD\bin\Debug\GestionBD.pdb
+C:\Users\sdeschenes\Documents\Visual Studio 2013\Projects\GestionBD\GestionBD\obj\Debug\GestionBD.csprojResolveAssemblyReference.cache
+C:\Users\sdeschenes\Documents\Visual Studio 2013\Projects\GestionBD\GestionBD\obj\Debug\GestionBD.Form1.resources
+C:\Users\sdeschenes\Documents\Visual Studio 2013\Projects\GestionBD\GestionBD\obj\Debug\GestionBD.Properties.Resources.resources
+C:\Users\sdeschenes\Documents\Visual Studio 2013\Projects\GestionBD\GestionBD\obj\Debug\GestionBD.csproj.GenerateResource.Cache
+C:\Users\sdeschenes\Documents\Visual Studio 2013\Projects\GestionBD\GestionBD\obj\Debug\GestionBD.exe
+C:\Users\sdeschenes\Documents\Visual Studio 2013\Projects\GestionBD\GestionBD\obj\Debug\GestionBD.pdb
+Z:\interface\GestionBD\GestionBD\bin\Debug\GestionBD.exe.config
+Z:\interface\GestionBD\GestionBD\obj\Debug\GestionBD.exe
+Z:\interface\GestionBD\GestionBD\obj\Debug\GestionBD.pdb
+Z:\interface\GestionBD\GestionBD\bin\Debug\GestionBD.exe
+Z:\interface\GestionBD\GestionBD\bin\Debug\GestionBD.pdb
+Z:\interface\GestionBD\GestionBD\obj\Debug\GestionBD.csprojResolveAssemblyReference.cache
+Z:\interface\GestionBD\GestionBD\obj\Debug\GestionBD.Form1.resources
+Z:\interface\GestionBD\GestionBD\obj\Debug\GestionBD.Properties.Resources.resources
+Z:\interface\GestionBD\GestionBD\obj\Debug\GestionBD.csproj.GenerateResource.Cache
+C:\repertoire\projet\c#\interface\GestionBD\GestionBD\bin\Debug\GestionBD.exe.config
+C:\repertoire\projet\c#\interface\GestionBD\GestionBD\bin\Debug\GestionBD.exe
+C:\repertoire\projet\c#\interface\GestionBD\GestionBD\bin\Debug\GestionBD.pdb
+C:\repertoire\projet\c#\interface\GestionBD\GestionBD\obj\Debug\GestionBD.csprojAssemblyReference.cache
+C:\repertoire\projet\c#\interface\GestionBD\GestionBD\obj\Debug\GestionBD.Form1.resources
+C:\repertoire\projet\c#\interface\GestionBD\GestionBD\obj\Debug\GestionBD.Properties.Resources.resources
+C:\repertoire\projet\c#\interface\GestionBD\GestionBD\obj\Debug\GestionBD.csproj.GenerateResource.cache
+C:\repertoire\projet\c#\interface\GestionBD\GestionBD\obj\Debug\GestionBD.csproj.CoreCompileInputs.cache
+C:\repertoire\projet\c#\interface\GestionBD\GestionBD\obj\Debug\GestionBD.exe
+C:\repertoire\projet\c#\interface\GestionBD\GestionBD\obj\Debug\GestionBD.pdb
